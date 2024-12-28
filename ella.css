@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-image: url(FB_IMG_17293640705831186.jpg);
+    font-size: 40px;
+    
+}
+.inputtext{
+    width: 250px;
+    height: 30px;
+    box-shadow: 6px 6px 25px rgba(0, 0, 0);
+    border-radius: 8px 8px 8px 8px;
+}
+h1{
+    color: aliceblue;
+}
+.k {
+    color: aliceblue;
+}
